@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625635250646",
+    "firebase_url": "https://my-psychologist-cf8f0-default-rtdb.firebaseio.com",
+    "project_id": "my-psychologist-cf8f0",
+    "storage_bucket": "my-psychologist-cf8f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625635250646:android:1dee82694c845ac8229477",
+        "android_client_info": {
+          "package_name": "com.senome.mypsychologist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625635250646-5im44dj63pp8lms3dq1ri0jfthpol2el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxw5EKkWXT300NaE8H3gCWGR1FavmKNMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625635250646-5im44dj63pp8lms3dq1ri0jfthpol2el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
